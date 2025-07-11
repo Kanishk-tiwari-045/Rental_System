@@ -102,7 +102,7 @@ const Navbar = () => {
             <p>
               <span className="text-[12px] text-gray-400">Hi,</span>{" "}
               <span className="text-gray-400 font-semi-bold  text-[12px]">
-                Jeevan
+                Kanishk
               </span>
             </p>
             <MdKeyboardArrowDown />

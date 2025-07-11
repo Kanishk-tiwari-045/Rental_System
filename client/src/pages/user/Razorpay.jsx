@@ -117,9 +117,9 @@ export async function displayRazorpay(values, navigate, dispatch) {
         }
       },
       prefill: {
-        name: "Jeevan aj",
-        email: "ambrahamjeevan@gmail.com",
-        contact: "8086240993",
+        name: "Kanishk tiwari",
+        email: "kanishktiwari11a@gmail.com",
+        contact: "9929891469",
       },
       theme: {
         color: "#61dafb",
